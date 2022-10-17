@@ -1,2 +1,2 @@
 # ACM-Magic-Mirror
-An ACM funded technology project exploring the use cases of the Raspberry Pi in the college ecosystem.
+An ACM funded technology project exploring the use cases of the Raspberry Pi in the college ecosystem. Magic Mirror is a touch screen responsive mirror powered by a Raspberry Pi backend and open source OS.  Built using a defective 32" TV found in Clayton State's robotics lab. ACM members thought it would be cool to repurpose this technology with hopes of benefiting the college.  
